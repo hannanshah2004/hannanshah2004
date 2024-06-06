@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <a href='https://leetcode.com/shs171'>
-    <img src='https://leetcard.jacoblin.cool/Hannan Syed Shah?theme=forest&ext=activity'/>
+    <img src='https://leetcard.jacoblin.cool/shs171?theme=forest&ext=activity'/>
 </a>
 
